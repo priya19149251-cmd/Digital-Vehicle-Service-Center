@@ -1,0 +1,14 @@
+C:\Users\hi\Desktop\Digital Vehicle Service Center\bin\Debug\net10.0\Digital Vehicle Service Center.exe
+C:\Users\hi\Desktop\Digital Vehicle Service Center\bin\Debug\net10.0\Digital Vehicle Service Center.deps.json
+C:\Users\hi\Desktop\Digital Vehicle Service Center\bin\Debug\net10.0\Digital Vehicle Service Center.runtimeconfig.json
+C:\Users\hi\Desktop\Digital Vehicle Service Center\bin\Debug\net10.0\Digital Vehicle Service Center.dll
+C:\Users\hi\Desktop\Digital Vehicle Service Center\bin\Debug\net10.0\Digital Vehicle Service Center.pdb
+C:\Users\hi\Desktop\Digital Vehicle Service Center\obj\Debug\net10.0\Digital Vehicle Service Center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\Desktop\Digital Vehicle Service Center\obj\Debug\net10.0\Digital Vehicle Service Center.AssemblyInfoInputs.cache
+C:\Users\hi\Desktop\Digital Vehicle Service Center\obj\Debug\net10.0\Digital Vehicle Service Center.AssemblyInfo.cs
+C:\Users\hi\Desktop\Digital Vehicle Service Center\obj\Debug\net10.0\Digital Vehicle Service Center.csproj.CoreCompileInputs.cache
+C:\Users\hi\Desktop\Digital Vehicle Service Center\obj\Debug\net10.0\Digital Vehicle Service Center.dll
+C:\Users\hi\Desktop\Digital Vehicle Service Center\obj\Debug\net10.0\refint\Digital Vehicle Service Center.dll
+C:\Users\hi\Desktop\Digital Vehicle Service Center\obj\Debug\net10.0\Digital Vehicle Service Center.pdb
+C:\Users\hi\Desktop\Digital Vehicle Service Center\obj\Debug\net10.0\Digital Vehicle Service Center.genruntimeconfig.cache
+C:\Users\hi\Desktop\Digital Vehicle Service Center\obj\Debug\net10.0\ref\Digital Vehicle Service Center.dll
